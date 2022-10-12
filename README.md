@@ -1,1 +1,1 @@
-# find-raspberry-pi-on-network
+# Find Raspberry Pi's ip on wifi network
